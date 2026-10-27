@@ -4,7 +4,7 @@
 
 英文 terminology，中文解释，练习时建议用英文口述 reasoning。本文根据提供的 quiz 整理，适用于 C++ SWE / systems / low-latency 面试准备；题目是模拟练习，不代表 HRT、Citadel、Jane Street 或其他公司的真实题库。
 
-配套复习：[Synchronization](../os/synchronization.md)、[Process & Thread](../os/process-thread.md)、[Memory Management](../os/memory.md)。
+配套复习：[Synchronization](synchronization.md)、[Process & Thread](process-thread.md)、[Memory Management](memory.md)。
 
 ## How to Use
 
